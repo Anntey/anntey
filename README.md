@@ -46,6 +46,7 @@
     - [x] Mixture Models
     - [x] Dimensionality Reduction
     - [x] Econometrics
+    - [ ] Generalized Additive Models
 - [x] Bayesian Statistics
     - [x] Posterior Inference
     - [x] Predictive Inference
