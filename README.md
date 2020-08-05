@@ -1,4 +1,4 @@
-## Hi there, I'm Antti 👋. I'm a Data Science student.
+## Hi there, I'm Antti, a Data Science student 👋
 - I’m currently learning everything
 - You can find examples of my projects below this
 
@@ -29,4 +29,9 @@
 <br />
 
 ### Projects
-- [Testi](https://www.test.com)
+- [Full-stack computer vision web application with Flask & React](https://github.com/Anntey/melanoma-detector-webapp)
+- [Notebook for inracranial hemorrhage detection with PyTorch](https://github.com/Anntey/kaggle-hemorrhage-classification)
+- [Notebook for duplicate question detection with TensorFlow](https://github.com/Anntey/kaggle-hemorrhage-classification)
+- [Notebook for question labeling with TensorFlow](https://github.com/Anntey/kaggle-question-labeling)
+- [Notebook for loan default prediction with XGBoost](https://github.com/Anntey/kaggle-default-prediction)
+- [Notebook for taxi fare prediction with XGBoost](https://github.com/Anntey/kaggle-fare-prediction)
