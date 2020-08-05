@@ -11,10 +11,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/html5-01_icon-icons.com_50875.png" />
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/512px-HTML5_logo_black.svg.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/css3-01_icon-icons.com_50918.png" />
 <img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/svg/29/29594.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/graphql.svg" />
