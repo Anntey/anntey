@@ -66,7 +66,7 @@
     - [ ] Generative Learning
     - [ ] Information Retrieval
 - [ ] Signal Processing
-    - [x] Fourier and Z transformations
+    - [x] Fourier and Z-transforms
     - [x] 1D and 2D Convolutions
     - [x] FIR and IIR Filters
     - [ ] Kalman Filters
