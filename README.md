@@ -18,6 +18,10 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linux.svg" />
 <img align="left" alt="Bash" width="26px" src="https://www.besieged.tech/res/dev.png" />
+<img align="left" alt="Excel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftexcel.svg" />
+<img align="left" alt="Tableau" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/tableau.svg" />
+<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg" />
+
 
 <br />
 <br />
