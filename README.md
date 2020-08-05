@@ -30,7 +30,7 @@
 - [Notebook for loan default prediction with XGBoost](https://github.com/Anntey/kaggle-default-prediction)
 - [Notebook for taxi fare prediction with XGBoost](https://github.com/Anntey/kaggle-fare-prediction)
 
-### What I Know and What I'm Learning
+### What I'm Learning
 - [x] Math
     - [x] Basic Calculus
     - [x] Linear Algebra
