@@ -58,11 +58,11 @@
     - [x] Nearest Neighbours
     - [x] Support Vector Machines
     - [x] Decision Trees
+    - [x] Recommender Systems
 - [ ] Deep Learning
     - [x] Computer Vision
     - [x] Natural Language Processing
     - [x] Reinforcement Learning
-    - [x] Recommender Systems
     - [ ] Speech Recognition
     - [ ] Generative Learning
     - [ ] Information Retrieval
