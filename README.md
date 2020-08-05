@@ -2,6 +2,18 @@
 - I’m currently learning everything
 - You can find examples of my projects below this
 
+## What I Know and What I'm Learning
+- [x] Classical Statistics
+- [x] Bayesian Statistics
+- [x] Machine Learning
+- [ ] Deep Learning
+    - [x] Computer Vision
+    - [x] Natural Language Processing
+    - [x] Reinforcement Learning
+    - [ ] Speech Recognition
+    - [ ] Generative Learning
+    - [ ] Information Retrieval
+
 <br />
 
 ### Languages and Tools:
