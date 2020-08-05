@@ -3,16 +3,53 @@
 - You can find examples of my projects below this
 
 ## What I Know and What I'm Learning
+- [x] Math
+    - [x] Basic Calculus
+    - [x] Linear Algebra
+    - [x] Probability Calculus
+    - [x] Differential Equations
+    - [ ] Optimization
 - [x] Classical Statistics
+    - [x] Statistical Inference
+    - [x] Time Series Analysis
+    - [x] Generalized Linear Models
+    - [x] Factor Analysis
+    - [x] Discriminant Analysis
+    - [x] Mixture Models
+    - [x] Dimensionality Reduction
+    - [x] Econometrics
 - [x] Bayesian Statistics
+    - [x] Posterior Inference
+    - [x] Predictive Inference
+    - [x] Linear Models
+    - [x] Hierarchical Models
 - [x] Machine Learning
+    - [x] Clustering
+    - [x] Rule Mining
+    - [x] Nearest Neighbours
+    - [x] Support Vector Machines
+    - [x] Decision Trees
 - [ ] Deep Learning
     - [x] Computer Vision
     - [x] Natural Language Processing
     - [x] Reinforcement Learning
+    - [x] Recommender Systems
     - [ ] Speech Recognition
     - [ ] Generative Learning
     - [ ] Information Retrieval
+- [ ] Signal Processing
+    - [x] Fourier and Z transformations
+    - [x] 1D and 2D Convolutions
+    - [x] FIR and IIR Filters
+    - [ ] Kalman Filters
+- [x] Computer Science
+    - [x] Basic Programming
+    - [x] Data-intensive Programming
+    - [x] Data Structures and Algorithms
+    - [x] Data Bases
+    - [x] Networking
+    - [x] Web Development
+    - [x] DevOps
 
 <br />
 
