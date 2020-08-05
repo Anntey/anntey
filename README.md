@@ -37,7 +37,7 @@
     - [x] Probability Calculus
     - [x] Differential Equations
     - [ ] Optimization
-- [x] Classical Statistics
+- [x] Statistics
     - [x] Statistical Inference
     - [x] Time Series Analysis
     - [x] Generalized Linear Models
@@ -46,12 +46,8 @@
     - [x] Mixture Models
     - [x] Dimensionality Reduction
     - [x] Econometrics
+    - [x] Bayesian Statistics
     - [ ] Generalized Additive Models
-- [x] Bayesian Statistics
-    - [x] Posterior Inference
-    - [x] Predictive Inference
-    - [x] Linear Models
-    - [x] Hierarchical Models
 - [x] Machine Learning
     - [x] Clustering
     - [x] Rule Mining
