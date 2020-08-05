@@ -1,7 +1,3 @@
-## Hi there, I'm Antti, a Data Science student 👋
-- I’m currently learning everything
-- You can find examples of my projects below this
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -34,7 +30,7 @@
 - [Notebook for loan default prediction with XGBoost](https://github.com/Anntey/kaggle-default-prediction)
 - [Notebook for taxi fare prediction with XGBoost](https://github.com/Anntey/kaggle-fare-prediction)
 
-## What I Know and What I'm Learning
+### What I Know and What I'm Learning
 - [x] Math
     - [x] Basic Calculus
     - [x] Linear Algebra
