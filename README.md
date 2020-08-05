@@ -40,13 +40,13 @@
 - [x] Statistics
     - [x] Statistical Inference
     - [x] Time Series Analysis
-    - [x] Generalized Linear Models
     - [x] Factor Analysis
     - [x] Discriminant Analysis
-    - [x] Mixture Models
     - [x] Dimensionality Reduction
     - [x] Econometrics
     - [x] Bayesian Statistics
+    - [x] Generalized Linear Models
+    - [x] Mixture Models
     - [ ] Generalized Additive Models
 - [x] Machine Learning
     - [x] Clustering
