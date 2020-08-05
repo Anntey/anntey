@@ -21,7 +21,6 @@
 <img align="left" alt="Tableau" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/tableau.svg" />
 <img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg" />
 
-
 <br />
 <br />
 
