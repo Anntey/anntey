@@ -32,10 +32,9 @@
 
 ### What I've Learned
 - [x] Math
-    - [x] Basic Calculus
+    - [x] Calculus
     - [x] Linear Algebra
     - [x] Probability Calculus
-    - [x] Differential Equations
     - [ ] Optimization
 - [x] Statistics
     - [x] Statistical Inference
@@ -43,7 +42,6 @@
     - [x] Factor Analysis
     - [x] Discriminant Analysis
     - [x] Dimensionality Reduction
-    - [x] Econometrics
     - [x] Bayesian Statistics
     - [x] Generalized Linear Models
     - [x] Mixture Models
