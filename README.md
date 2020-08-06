@@ -24,6 +24,7 @@
 
 ### Projects
 - [Skin cancer detection web application with Flask & React](https://github.com/Anntey/melanoma-detector-webapp)
+- [Notebooks for Airbnb apartment price modeling with Transformers and XGBoost](https://github.com/Anntey/school-thesis)
 - [Notebook for inracranial hemorrhage detection with PyTorch](https://github.com/Anntey/kaggle-hemorrhage-classification)
 - [Notebook for duplicate question detection with TensorFlow](https://github.com/Anntey/kaggle-hemorrhage-classification)
 - [Notebook for question labeling with TensorFlow](https://github.com/Anntey/kaggle-question-labeling)
