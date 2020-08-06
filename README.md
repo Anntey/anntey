@@ -34,7 +34,7 @@
 - [x] Math
     - [x] Calculus
     - [x] Linear Algebra
-    - [x] Probability Calculus
+    - [x] Probability
     - [ ] Optimization
 - [x] Statistics
     - [x] Statistical Inference
