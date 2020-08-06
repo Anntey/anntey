@@ -61,8 +61,7 @@
     - [ ] Generative Learning
     - [ ] Information Retrieval
 - [x] Computer Science
-    - [x] Basic Programming
-    - [x] Data-intensive Programming
+    - [x] Programming
     - [x] Data Structures and Algorithms
     - [x] Data Bases
     - [x] Networking
