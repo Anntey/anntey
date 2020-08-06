@@ -67,4 +67,3 @@
     - [x] Data Bases
     - [x] Networking
     - [x] Web Development
-    - [x] DevOps
