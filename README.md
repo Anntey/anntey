@@ -46,6 +46,7 @@
     - [x] Bayesian Statistics
     - [x] Generalized Linear Models
     - [x] Mixture Models
+    - [ ] Mixed Models
     - [ ] Generalized Additive Models
 - [x] Machine Learning
     - [x] Clustering
