@@ -55,13 +55,13 @@
     - [x] Support Vector Machines
     - [x] Decision Trees
     - [x] Recommender Systems
-- [ ] Deep Learning
-    - [x] Computer Vision
-    - [x] Natural Language Processing
-    - [x] Reinforcement Learning
-    - [ ] Speech Recognition
-    - [ ] Generative Learning
-    - [ ] Information Retrieval
+    - [ ] Deep Learning
+        - [x] Computer Vision
+        - [x] Natural Language Processing
+        - [x] Reinforcement Learning
+        - [ ] Speech Recognition
+        - [ ] Generative Learning
+        - [ ] Information Retrieval
 - [x] Computer Science
     - [x] Programming
     - [x] Data Structures and Algorithms
