@@ -23,8 +23,8 @@
 <br />
 
 ### Projects
-[![placeholder](banner.png)](https://github.com/Anntey/school-thesis)
-![placeholder](banner.png)]
+[![goo](banner.png)](https://github.com/Anntey/school-thesis)
+![foo](banner.png)]
 - [Skin cancer detection web application with Flask & React](https://github.com/Anntey/melanoma-detector-webapp)
 - [Notebooks for Airbnb apartment price modeling with Transformers, RNNs and XGBoost](https://github.com/Anntey/school-thesis)
 - [Notebook for intracranial hemorrhage detection with PyTorch](https://github.com/Anntey/kaggle-hemorrhage-classification)
