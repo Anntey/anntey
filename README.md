@@ -16,7 +16,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linux.svg" />
-<img align="left" alt="Bash" width="26px" src="https://www.besieged.tech/res/dev.png" />
 
 <br />
 <br />
