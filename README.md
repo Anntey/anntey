@@ -35,7 +35,6 @@
     - [x] Calculus
     - [x] Linear Algebra
     - [x] Probability
-    - [ ] Optimization
 - [x] Statistics
     - [x] Statistical Inference
     - [x] Time Series Analysis
