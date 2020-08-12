@@ -22,13 +22,13 @@
 
 ### Projects
 <!--- <img align="left" alt="Banner" src="https://raw.githubusercontent.com/Anntey/anntey/master/banner.png" /> --->
-- [Skin cancer detection web application with Flask & React](https://github.com/Anntey/melanoma-detector-webapp)
+- [Sentiment attributor web application with Django & React](https://github.com/Anntey/sentiment-attributor-webapp)
+- [Melanoma detection web application with Flask & React](https://github.com/Anntey/melanoma-detector-webapp)
 - [Notebooks for Airbnb apartment price modeling with Transformers, RNNs and XGBoost](https://github.com/Anntey/school-thesis)
 - [Notebook for intracranial hemorrhage detection with PyTorch](https://github.com/Anntey/kaggle-hemorrhage-classification)
 - [Notebook for duplicate question detection with TensorFlow](https://github.com/Anntey/kaggle-hemorrhage-classification)
 - [Notebook for question labeling with TensorFlow](https://github.com/Anntey/kaggle-question-labeling)
 - [Notebook for loan default prediction with XGBoost](https://github.com/Anntey/kaggle-default-prediction)
-- [Notebook for taxi fare prediction with XGBoost](https://github.com/Anntey/kaggle-fare-prediction)
 
 ### What I've Learned
 - [x] Math
