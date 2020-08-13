@@ -2,6 +2,8 @@
 <!--- alt icon source https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png) --->
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/django.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/flask.svg" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />
@@ -22,8 +24,8 @@
 
 ### Projects
 <!--- <img align="left" alt="Banner" src="https://raw.githubusercontent.com/Anntey/anntey/master/banner.png" /> --->
-- <img align="center" alt="Python" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/django.svg" /> [Sentiment attributor web application with Django & React](https://github.com/Anntey/sentiment-attributor-webapp)
-- <img align="center" alt="Python" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/flask.svg" /> [Melanoma detection web application with Flask & React](https://github.com/Anntey/melanoma-detector-webapp)
+- [Sentiment attributor web application with Django & React](https://github.com/Anntey/sentiment-attributor-webapp)
+- [Melanoma detection web application with Flask & React](https://github.com/Anntey/melanoma-detector-webapp)
 - [Airbnb apartment price modeling with Transformers, RNNs and XGBoost](https://github.com/Anntey/school-thesis)
 - [Intracranial hemorrhage detection with PyTorch](https://github.com/Anntey/kaggle-hemorrhage-classification)
 - [Duplicate question detection with TensorFlow](https://github.com/Anntey/kaggle-duplicate-identification)
