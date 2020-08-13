@@ -22,7 +22,7 @@
 
 ### Projects
 <!--- <img align="left" alt="Banner" src="https://raw.githubusercontent.com/Anntey/anntey/master/banner.png" /> --->
-- [Sentiment attributor web application with Django & React](https://github.com/Anntey/sentiment-attributor-webapp)
+- <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jupyter.svg" />[Sentiment attributor web application with Django & React](https://github.com/Anntey/sentiment-attributor-webapp)
 - [Melanoma detection web application with Flask & React](https://github.com/Anntey/melanoma-detector-webapp)
 - [Airbnb apartment price modeling with Transformers, RNNs and XGBoost](https://github.com/Anntey/school-thesis)
 - [Intracranial hemorrhage detection with PyTorch](https://github.com/Anntey/kaggle-hemorrhage-classification)
