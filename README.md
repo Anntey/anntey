@@ -47,6 +47,7 @@
     - [x] Mixture Models
     - [ ] Mixed Models
     - [ ] Generalized Additive Models
+    - [ ] Graphical Models
 - [x] Machine Learning
     - [x] Clustering
     - [x] Rule Mining
