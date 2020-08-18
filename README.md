@@ -27,7 +27,7 @@
 
 ### Notebooks
 - [Airbnb apartment price modeling with Transformers, RNNs and XGBoost](https://github.com/Anntey/school-thesis)
-- [Deep reinforcement learning in games](https://github.com/Anntey/experiments-reinforcement-learning)
+- [Deep reinforcement learning in games with PyTorch](https://github.com/Anntey/experiments-reinforcement-learning)
 - [Intracranial hemorrhage detection with PyTorch](https://github.com/Anntey/kaggle-hemorrhage-classification)
 - [Duplicate question detection with TensorFlow](https://github.com/Anntey/kaggle-duplicate-identification)
 - [Question labeling with TensorFlow](https://github.com/Anntey/kaggle-question-labeling)
