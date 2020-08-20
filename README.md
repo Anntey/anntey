@@ -61,8 +61,8 @@
         - [x] Computer Vision
         - [x] Natural Language Processing
         - [x] Reinforcement Learning
+        - [x] Generative Learning
         - [ ] Speech Recognition
-        - [ ] Generative Learning
         - [ ] Information Retrieval
 - [x] Computer Science
     - [x] Programming
