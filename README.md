@@ -63,7 +63,6 @@
         - [x] Reinforcement Learning
         - [x] Generative Learning
         - [ ] Speech Recognition
-        - [ ] Information Retrieval
 - [x] Computer Science
     - [x] Programming
     - [x] Data Structures and Algorithms
