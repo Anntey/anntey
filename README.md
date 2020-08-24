@@ -18,7 +18,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linux.svg" />
 
-<p></p>
 <br />
 <br />
 
@@ -84,6 +83,7 @@
 <a href="https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=sr_1_1?dchild=1&keywords=reinforcement+learning&qid=1598285936&sr=8-1
 "><img align="left" alt="RL" height="140px" src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039246%26type%3D.jpg?itok=JyyOZwhR" /></a>
 
+<p></p>
 <br />
 <br />
 <br />
