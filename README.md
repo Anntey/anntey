@@ -82,14 +82,3 @@
 "><img align="left" alt="SL" height="140px" src="https://pbs.twimg.com/media/EX8gmK1WkAMH9n3.jpg" /></a>
 <a href="https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=sr_1_1?dchild=1&keywords=reinforcement+learning&qid=1598285936&sr=8-1
 "><img align="left" alt="RL" height="140px" src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039246%26type%3D.jpg?itok=JyyOZwhR" /></a>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-### Blog Recommendations
-- [Papers With Code](https://paperswithcode.com/)
-- [Distill](https://distill.pub/)
