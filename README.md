@@ -70,11 +70,10 @@
     - [x] Networking
     - [x] Web Development
     
-## Book Recommendations
-<img align="left" alt="Linux" width="40px" src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039246%26type%3D.jpg?itok=JyyOZwhR" />
-<img align="left" alt="Linux" width="40px" src="https://images.manning.com/book/1/b0603d7-c774-4e5f-9b9c-122ef05ade14/Zai-DRL-HI.png" />
-<img align="left" alt="Linux" width="40px" src="https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?crid=303WWTDN3NLXF&dchild=1&keywords=elements+of+statistical+learning&qid=1598286105&sprefix=elements+of+sta%2Caps%2C334&sr=8-1" />
-<img align="left" alt="Linux" width="40px" src="https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_2?dchild=1&keywords=deep+learning+with+python&qid=1598286173&sr=8-2
-" />
-<img align="left" alt="Linux" width="40px" src="https://www.amazon.com/Deep-Learning-NLP-Speech-Recognition/dp/3030145980/ref=sr_1_1?crid=2ZKU2YHEUS49O&dchild=1&keywords=deep+learning+for+nlp+and+speech+recognition&qid=1598286217&sprefix=deep+learning+for+nlp+and%2Caps%2C273&sr=8-1" />
-<img align="left" alt="Linux" width="40px" src="https://www.amazon.com/Recommender-Systems-Textbook-Charu-Aggarwal/dp/3319296574/ref=sr_1_1?crid=3UZE76QO7OCSD&dchild=1&keywords=recommender+systems+aggarwal&qid=1598286272&sprefix=aggarwal+recomme%2Caps%2C259&sr=8-1" />
+## Book recommendations
+<img align="left" alt="a" width="40px" src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039246%26type%3D.jpg?itok=JyyOZwhR" />
+<img align="left" alt="b" width="40px" src="https://images.manning.com/book/1/b0603d7-c774-4e5f-9b9c-122ef05ade14/Zai-DRL-HI.png" />
+<img align="left" alt="c" width="40px" src="https://pbs.twimg.com/media/EX8gmK1WkAMH9n3.jpg" />
+<img align="left" alt="d" width="40px" src="https://images.manning.com/book/7/65fca1c-6826-472d-bbea-c1d4a7b3c570/Chollet-DLP-HI.png" />
+<img align="left" alt="e" width="40px" src="https://images-na.ssl-images-amazon.com/images/I/51Mf6S6C4tL.jpg" />
+<img align="left" alt="f" width="40px" src="https://img1.od-cdn.com/ImageType-100/7614-1/%7B8A97FEEB-0425-492D-805E-80DBFF3D5B75%7DImg100.jpg" />
