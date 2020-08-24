@@ -32,7 +32,7 @@
 - [Duplicate question detection with TensorFlow](https://github.com/Anntey/kaggle-duplicate-identification)
 - [Question labeling with TensorFlow](https://github.com/Anntey/kaggle-question-labeling)
 - [Loan default prediction with XGBoost](https://github.com/Anntey/kaggle-default-prediction)
-<br>
+
 ### What I've Learned
 - [x] Math
     - [x] Calculus
@@ -88,7 +88,7 @@
 <br />
 <br />
 <br />
-<br />
+<br><br />
 
 ### Blog Recommendations
 - [Papers With Code](https://paperswithcode.com/)
