@@ -18,6 +18,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linux.svg" />
 
+<p></p>
 <br />
 <br />
 
