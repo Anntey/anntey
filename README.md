@@ -69,3 +69,12 @@
     - [x] Data Bases
     - [x] Networking
     - [x] Web Development
+    
+## Book Recommendations
+<img align="left" alt="Linux" width="40px" src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039246%26type%3D.jpg?itok=JyyOZwhR" />
+<img align="left" alt="Linux" width="40px" src="https://images.manning.com/book/1/b0603d7-c774-4e5f-9b9c-122ef05ade14/Zai-DRL-HI.png" />
+<img align="left" alt="Linux" width="40px" src="https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?crid=303WWTDN3NLXF&dchild=1&keywords=elements+of+statistical+learning&qid=1598286105&sprefix=elements+of+sta%2Caps%2C334&sr=8-1" />
+<img align="left" alt="Linux" width="40px" src="https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_2?dchild=1&keywords=deep+learning+with+python&qid=1598286173&sr=8-2
+" />
+<img align="left" alt="Linux" width="40px" src="https://www.amazon.com/Deep-Learning-NLP-Speech-Recognition/dp/3030145980/ref=sr_1_1?crid=2ZKU2YHEUS49O&dchild=1&keywords=deep+learning+for+nlp+and+speech+recognition&qid=1598286217&sprefix=deep+learning+for+nlp+and%2Caps%2C273&sr=8-1" />
+<img align="left" alt="Linux" width="40px" src="https://www.amazon.com/Recommender-Systems-Textbook-Charu-Aggarwal/dp/3319296574/ref=sr_1_1?crid=3UZE76QO7OCSD&dchild=1&keywords=recommender+systems+aggarwal&qid=1598286272&sprefix=aggarwal+recomme%2Caps%2C259&sr=8-1" />
