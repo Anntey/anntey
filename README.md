@@ -70,7 +70,7 @@
     - [x] Networking
     - [x] Web Development
     
-### Book recommendations
+### Book Recommendations
 <a href="https://www.amazon.com/Deep-Reinforcement-Learning-Action-Alexander/dp/1617295434/ref=sr_1_1?dchild=1&keywords=deep+reinforcement+learning+in+action&qid=1598286033&sr=8-1
 "><img align="left" alt="b" height="140px" src="https://images.manning.com/book/1/b0603d7-c774-4e5f-9b9c-122ef05ade14/Zai-DRL-HI.png" /></a>
 <a href="https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_2?dchild=1&keywords=deep+learning+with+python&qid=1598286173&sr=8-2
