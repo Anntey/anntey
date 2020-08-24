@@ -70,10 +70,10 @@
     - [x] Networking
     - [x] Web Development
     
-## Book recommendations
-<img align="left" alt="a" width="80px" src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039246%26type%3D.jpg?itok=JyyOZwhR" />
-<img align="left" alt="b" width="80px" src="https://images.manning.com/book/1/b0603d7-c774-4e5f-9b9c-122ef05ade14/Zai-DRL-HI.png" />
-<img align="left" alt="c" width="80px" src="https://pbs.twimg.com/media/EX8gmK1WkAMH9n3.jpg" />
-<img align="left" alt="d" width="80px" src="https://images.manning.com/book/7/65fca1c-6826-472d-bbea-c1d4a7b3c570/Chollet-DLP-HI.png" />
-<img align="left" alt="e" width="80px" src="https://images-na.ssl-images-amazon.com/images/I/51Mf6S6C4tL.jpg" />
-<img align="left" alt="f" width="80px" src="https://img1.od-cdn.com/ImageType-100/7614-1/%7B8A97FEEB-0425-492D-805E-80DBFF3D5B75%7DImg100.jpg" />
+### Book recommendations
+<img align="left" alt="a" height="80px" src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039246%26type%3D.jpg?itok=JyyOZwhR" />
+<img align="left" alt="b" height="80px" src="https://images.manning.com/book/1/b0603d7-c774-4e5f-9b9c-122ef05ade14/Zai-DRL-HI.png" />
+<img align="left" alt="c" height="80px" src="https://pbs.twimg.com/media/EX8gmK1WkAMH9n3.jpg" />
+<img align="left" alt="d" height="80px" src="https://images.manning.com/book/7/65fca1c-6826-472d-bbea-c1d4a7b3c570/Chollet-DLP-HI.png" />
+<img align="left" alt="e" height="80px" src="https://images-na.ssl-images-amazon.com/images/I/51Mf6S6C4tL.jpg" />
+<img align="left" alt="f" height="80px" src="https://img1.od-cdn.com/ImageType-100/7614-1/%7B8A97FEEB-0425-492D-805E-80DBFF3D5B75%7DImg100.jpg" />
