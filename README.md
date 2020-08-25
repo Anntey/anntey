@@ -72,14 +72,14 @@
     
 ### Book Recommendations
 <a href="https://www.amazon.com/Deep-Reinforcement-Learning-Action-Alexander/dp/1617295434/ref=sr_1_1?dchild=1&keywords=deep+reinforcement+learning+in+action&qid=1598286033&sr=8-1
-"><img align="left" alt="DRL" height="140px" src="https://images.manning.com/book/1/b0603d7-c774-4e5f-9b9c-122ef05ade14/Zai-DRL-HI.png" /></a>
+"><img align="left" alt="DRL" height="130px" src="https://images.manning.com/book/1/b0603d7-c774-4e5f-9b9c-122ef05ade14/Zai-DRL-HI.png" /></a>
 <a href="https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_2?dchild=1&keywords=deep+learning+with+python&qid=1598286173&sr=8-2
-"><img align="left" alt="DLP" height="140px" src="https://images.manning.com/book/7/65fca1c-6826-472d-bbea-c1d4a7b3c570/Chollet-DLP-HI.png" /></a>
+"><img align="left" alt="DLP" height="130px" src="https://images.manning.com/book/7/65fca1c-6826-472d-bbea-c1d4a7b3c570/Chollet-DLP-HI.png" /></a>
 <a href="https://www.amazon.com/Deep-Learning-NLP-Speech-Recognition/dp/3030145980/ref=sr_1_1?crid=2ZKU2YHEUS49O&dchild=1&keywords=deep+learning+for+nlp+and+speech+recognition&qid=1598286217&sprefix=deep+learning+for+nlp+and%2Caps%2C273&sr=8-1
-"><img align="left" alt="NLP" height="140px" src="https://images-na.ssl-images-amazon.com/images/I/51Mf6S6C4tL.jpg" /></a>
-<a href="https://www.amazon.com/Recommender-Systems-Textbook-Charu-Aggarwal/dp/3319296574/ref=sr_1_1?crid=3UZE76QO7OCSD&dchild=1&keywords=recommender+systems+aggarwal&qid=1598286272&sprefix=aggarwal+recomme%2Caps%2C259&sr=8-1"><img align="left" alt="RS" height="140px" src="https://img1.od-cdn.com/ImageType-100/7614-1/%7B8A97FEEB-0425-492D-805E-80DBFF3D5B75%7DImg100.jpg" /></a>
-<a href="https://www.amazon.com/dp/3319944622/ref=sr_1_1?dchild=1&keywords=aggarwal+deep+learning+textbook&qid=1598339054&sr=8-1"><img align="left" alt="DL" height="140px" src="https://images-na.ssl-images-amazon.com/images/I/71mMV0Y2kUL.jpg" /></a>
+"><img align="left" alt="NLP" height="130px" src="https://images-na.ssl-images-amazon.com/images/I/51Mf6S6C4tL.jpg" /></a>
+<a href="https://www.amazon.com/Recommender-Systems-Textbook-Charu-Aggarwal/dp/3319296574/ref=sr_1_1?crid=3UZE76QO7OCSD&dchild=1&keywords=recommender+systems+aggarwal&qid=1598286272&sprefix=aggarwal+recomme%2Caps%2C259&sr=8-1"><img align="left" alt="RS" height="130px" src="https://img1.od-cdn.com/ImageType-100/7614-1/%7B8A97FEEB-0425-492D-805E-80DBFF3D5B75%7DImg100.jpg" /></a>
+<a href="https://www.amazon.com/dp/3319944622/ref=sr_1_1?dchild=1&keywords=aggarwal+deep+learning+textbook&qid=1598339054&sr=8-1"><img align="left" alt="DL" height="130px" src="https://images-na.ssl-images-amazon.com/images/I/71mMV0Y2kUL.jpg" /></a>
 <a href="https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?crid=303WWTDN3NLXF&dchild=1&keywords=elements+of+statistical+learning&qid=1598286105&sprefix=elements+of+sta%2Caps%2C334&sr=8-1
-"><img align="left" alt="SL" height="140px" src="https://pbs.twimg.com/media/EX8gmK1WkAMH9n3.jpg" /></a>
+"><img align="left" alt="SL" height="130px" src="https://pbs.twimg.com/media/EX8gmK1WkAMH9n3.jpg" /></a>
 <a href="https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=sr_1_1?dchild=1&keywords=reinforcement+learning&qid=1598285936&sr=8-1
-"><img align="left" alt="RL" height="140px" src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039246%26type%3D.jpg?itok=JyyOZwhR" /></a>
+"><img align="left" alt="RL" height="130px" src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039246%26type%3D.jpg?itok=JyyOZwhR" /></a>
