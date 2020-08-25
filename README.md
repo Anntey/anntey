@@ -82,7 +82,7 @@
 
 <a href="https://www.amazon.com/Recommender-Systems-Textbook-Charu-Aggarwal/dp/3319296574/ref=sr_1_1?crid=3UZE76QO7OCSD&dchild=1&keywords=recommender+systems+aggarwal&qid=1598286272&sprefix=aggarwal+recomme%2Caps%2C259&sr=8-1"><img align="left" alt="RS" height="140px" src="https://img1.od-cdn.com/ImageType-100/7614-1/%7B8A97FEEB-0425-492D-805E-80DBFF3D5B75%7DImg100.jpg" /></a>
 
-<a href=https://www.amazon.com/dp/3319944622/ref=sr_1_1?dchild=1&keywords=aggarwal+deep+learning+textbook&qid=1598339054&sr=8-1"><img align="left" alt="DL" height="140px" src="https://images-na.ssl-images-amazon.com/images/I/71mMV0Y2kUL.jpg" /></a>
+<a href="https://www.amazon.com/dp/3319944622/ref=sr_1_1?dchild=1&keywords=aggarwal+deep+learning+textbook&qid=1598339054&sr=8-1"><img align="left" alt="DL" height="140px" src="https://images-na.ssl-images-amazon.com/images/I/71mMV0Y2kUL.jpg" /></a>
 
 <a href="https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?crid=303WWTDN3NLXF&dchild=1&keywords=elements+of+statistical+learning&qid=1598286105&sprefix=elements+of+sta%2Caps%2C334&sr=8-1
 "><img align="left" alt="SL" height="140px" src="https://pbs.twimg.com/media/EX8gmK1WkAMH9n3.jpg" /></a>
