@@ -31,7 +31,7 @@
 - [Deep learning in recommender systems with PyTorch](https://github.com/Anntey/experiments-recommender-systems)
 
 ### Kaggle
-- [Question labeling with TensorFlow](https://github.com/Anntey/kaggle-question-labeling)
+- [Question labeling with Transformers in TensorFlow](https://github.com/Anntey/kaggle-question-labeling)
 - [Malware infection prediction with XGBoost](https://github.com/Anntey/kaggle-malware-prediction)
 - [Loan default prediction with XGBoost](https://github.com/Anntey/kaggle-default-prediction)
 - [Cancer detection with PyTorch](https://github.com/Anntey/kaggle-cancer-detection)
