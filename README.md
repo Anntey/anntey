@@ -64,7 +64,7 @@
     - [x] Mixture Models
     - [ ] Mixed Models
     - [ ] Generalized Additive Models
-    - [ ] Graphical Models
+    - [ ] Probabilistic Graphical Models
 - [x] Machine Learning
     - [x] Clustering
     - [x] Rule Mining
@@ -72,6 +72,7 @@
     - [x] Support Vector Machines
     - [x] Decision Trees
     - [x] Recommender Systems
+    - [ ] Graph-Based Machine Learning
     - [ ] Deep Learning
         - [x] Computer Vision
         - [x] Natural Language Processing
