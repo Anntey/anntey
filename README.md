@@ -35,7 +35,7 @@
 - [Malware infection prediction with XGBoost](https://github.com/Anntey/kaggle-malware-prediction)
 - [Loan default prediction with XGBoost](https://github.com/Anntey/kaggle-default-prediction)
 - [Cancer detection with PyTorch](https://github.com/Anntey/kaggle-cancer-detection)
-- [Intracranial hemorrhage detection with PyTorch](https://github.com/Anntey/kaggle-hemorrhage-classification)
+- [Hemorrhage detection with PyTorch](https://github.com/Anntey/kaggle-hemorrhage-classification)
 - [Duplicate question detection with TensorFlow](https://github.com/Anntey/kaggle-duplicate-identification)
 - [Toxic comment detection with TensorFlow](https://github.com/Anntey/kaggle-comment-classification)
 - [Payment transaction fraud detection with XGBoost](https://github.com/Anntey/kaggle-fraud-detection)
