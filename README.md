@@ -29,7 +29,7 @@
 - [Airbnb apartment price modeling with Transformers, RNNs and XGBoost](https://github.com/Anntey/school-thesis)
 - [Deep reinforcement learning in games with PyTorch](https://github.com/Anntey/experiments-reinforcement-learning)
 - [Deep learning in recommender systems with PyTorch](https://github.com/Anntey/experiments-recommender-systems)
-- [Graph embedding twitter users with Graph2Vec](https://github.com/Anntey/experiments-graph-embeddings)
+- [Graph embedding twitter users with graph2vec](https://github.com/Anntey/experiments-graph-embeddings)
 
 ### Kaggle
 - [Question labeling with Transformers in TensorFlow](https://github.com/Anntey/kaggle-question-labeling)
