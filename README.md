@@ -28,7 +28,7 @@
 ### Experimental
 - [Airbnb apartment price modeling with Transformers, RNNs and XGBoost](https://github.com/Anntey/school-thesis)
 - [Deep reinforcement learning in games with PyTorch](https://github.com/Anntey/experiments-reinforcement-learning)
-- [Deep learning in recommender systems](https://github.com/Anntey/experiments-recommender-systems)
+- [Deep learning in recommender systems with PyTorch](https://github.com/Anntey/experiments-recommender-systems)
 
 ### Kaggle
 - [Question labeling with TensorFlow](https://github.com/Anntey/kaggle-question-labeling)
