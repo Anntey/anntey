@@ -73,7 +73,7 @@
     - [x] Support Vector Machines
     - [x] Decision Trees
     - [x] Recommender Systems
-    - [ ] Graph-Based Machine Learning
+    - [ ] Network Analysis
     - [ ] Deep Learning
         - [x] Computer Vision
         - [x] Natural Language Processing
