@@ -27,6 +27,7 @@
 - [Deep reinforcement learning in games with PyTorch](https://github.com/Anntey/experiments-reinforcement-learning)
 - [Deep learning in recommender systems with PyTorch](https://github.com/Anntey/experiments-recommender-systems)
 - [Graph embedding twitter users with graph2vec](https://github.com/Anntey/experiments-graph-embeddings)
+- [Entity embeddings for categorical tabular data with PyTorch](https://github.com/Anntey/experiments-entity-embeddings)
 
 ### Kaggle
 - [Question labeling with Transformers in TensorFlow](https://github.com/Anntey/kaggle-question-labeling)
