@@ -39,7 +39,7 @@
 - [Toxic comment detection with TensorFlow](https://github.com/Anntey/kaggle-comment-classification)
 - [Payment transaction fraud detection with XGBoost](https://github.com/Anntey/kaggle-fraud-detection)
 - [Taxi fare prediction with XGBoost](https://github.com/Anntey/kaggle-fare-prediction)
-- [Pneumothorax Segmentation with TensorFlow](https://github.com/Anntey/kaggle-pneumothorax-segmentation)
+- [Pneumothorax segmentation with TensorFlow](https://github.com/Anntey/kaggle-pneumothorax-segmentation)
 - [Diabetic retinopathy detection with TensorFlow](https://github.com/Anntey/kaggle-blindness-detection)
 - [Earthquake prediction with LightGBM, XGBoost, NuSVR and KRR](https://github.com/Anntey/kaggle-earthquake-prediction)
 - [Document denoising with TensorFlow](https://github.com/Anntey/kaggle-document-denoising)
