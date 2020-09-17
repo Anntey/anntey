@@ -66,7 +66,7 @@
     - [ ] Probabilistic Graphical Models
 - [x] Machine Learning
     - [x] Clustering
-    - [x] Rule Mining
+    - [x] Association Rule Mining
     - [x] Nearest Neighbours
     - [x] Support Vector Machines
     - [x] Decision Trees
